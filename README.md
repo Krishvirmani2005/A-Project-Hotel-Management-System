@@ -1,4 +1,3 @@
-# A-Project-Hotel-Management-System
 # :bellhop_bell: Hotel Management System
 
 ## About
